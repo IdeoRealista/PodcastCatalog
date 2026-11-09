@@ -1,0 +1,39 @@
+{
+  "contentUrl": "./content.json",
+  "name": "Przemek Górczyk Podcast",
+  "shortName": "PG.",
+  "documentTitle": "Przemek Górczyk Podcast | Archiwum rozmów",
+  "subtitle": "Niezależny katalog odcinków",
+  "eyebrow": "Twoja biblioteka wiedzy",
+  "headline": {
+    "first": "Znajdź rozmowę,",
+    "highlight": "która Cię wciągnie."
+  },
+  "description": "{count} odcinków w jednym miejscu. Przeszukuj tytuły i gości, łącz kategorie, zapisuj ulubione i śledź obejrzane. Bez rejestracji, z danymi pobieranymi z content.json.",
+  "searchPlaceholder": "Szukaj numeru, tytułu, gościa lub kategorii...",
+  "footer": {
+    "label": "Nieoficjalny katalog Przemek Górczyk Podcast.",
+    "personalUse": "Strona powstała na szybko na użytek własny.",
+    "disclaimer": "Kategorie zostały przypisane maszynowo i mogą zawierać błędy - warto to uwzględnić przy filtrowaniu.",
+    "sourcesLabel": "Źródła:"
+  },
+  "notice": {
+    "title": "O tagach i linkach:",
+    "text": "Klasyfikacja ma charakter orientacyjny. Dla większości odcinków tagi wyznaczono na podstawie tytułu i dostępnych informacji o gościu; w odcinkach z potwierdzonymi opisami wykorzystano również te opisy. Fioletowa ikona otwiera bezpośrednie nagranie, a pozostałe linki wyszukują konkretny odcinek na YouTube. Odcinki i ich kategorie pobierane są z content.json. Ręczne zmiany tagów, ulubione, obejrzane odcinki i wybrany motyw są zapisywane lokalnie w przeglądarce. Aby przenieść historię na inne urządzenie, użyj eksportu i importu JSON."
+  },
+  "sources": [
+    {
+      "name": "Podcast Republic",
+      "url": "https://podcastrepublic.net/podcast/1570490820"
+    },
+    {
+      "name": "Charthaus",
+      "url": "https://chart.haus/pl-pl/podcasts/1f7a5cc9-efce-4bce-95ac-13f7f94126f0/episodes"
+    }
+  ],
+  "defaultEpisodeSource": "https://podcastrepublic.net/podcast/1570490820",
+  "csvFilename": "gorczyk_odcinki_filtrowane.csv",
+  "stateFilenamePrefix": "gorczyk_stan",
+  "stateNamespace": "pg-archive",
+  "stateSchema": "pg-archive-state"
+}
